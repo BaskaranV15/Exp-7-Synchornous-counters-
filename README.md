@@ -70,6 +70,6 @@ RegisterNumber:
 ![Screenshot 2023-06-08 105124](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/1e64c622-3c71-4afb-aaa6-ca565d7845bf)
 ### TRUTH TABLE 
 ![Screenshot 2023-06-08 110203](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/45ec8a5c-789f-4357-89f0-7046ea29bba6)
-
+https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/blob/main/Screenshot%202023-06-08%20110726.png
 ### RESULTS 
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
