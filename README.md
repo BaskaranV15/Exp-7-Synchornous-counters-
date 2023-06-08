@@ -63,26 +63,13 @@ RegisterNumber:
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
-
+![Screenshot 2023-06-08 104520](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/74bc2cb6-93bd-4425-86d3-4232d4ec2bab)
+![Screenshot 2023-06-08 105900](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/1c90bfbf-95a7-4b93-a42a-3f689bdc8128)
 ### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
+![Screenshot 2023-06-08 104244](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/b7e908f4-562c-4ab9-b0e4-102154ea5d69)
+![Screenshot 2023-06-08 105124](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/1e64c622-3c71-4afb-aaa6-ca565d7845bf)
 ### TRUTH TABLE 
-
-
-
-
-
+![Screenshot 2023-06-08 110203](https://github.com/BaskaranV15/Exp-7-Synchornous-counters-/assets/118703522/45ec8a5c-789f-4357-89f0-7046ea29bba6)
 
 ### RESULTS 
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
